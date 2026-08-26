@@ -3,10 +3,6 @@ pandas
 scikit-learn 
 matplotlib 
 seaborn 
-jupyter 
 scipy
-random forest
-xgboost 
-lightgbm 
-catboost 
 tqdm
+jupyter notebook
