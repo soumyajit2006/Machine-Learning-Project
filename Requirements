@@ -1,5 +1,12 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+numpy 
+pandas 
+scikit-learn 
+matplotlib 
+seaborn 
+jupyter 
+scipy
+random forest
+xgboost 
+lightgbm 
+catboost 
+tqdm
